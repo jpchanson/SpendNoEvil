@@ -1,0 +1,31 @@
+SpendNoEvil 3rd Party License Notification
+==========================================
+
+1. Definitions
+--------------
+1.1. "This Software" refers to all source code and binaries released under the name SpendNoEvil, 
+which is licensed under the Gnu Public License version 3 (please see LICENSE).
+
+1.2. "3rd Party Works" refer to any software used, but not modified, by This Software.
+
+
+2. General Disclaimer
+---------------------
+2.1. All 3rd Party Works used in This Software have been used in good faith and the
+belief that ALL Licensing requirements regarding the compatibility of 3rd Party Works
+and This Software have been met, both in spirit and in law.
+
+2.2. Should the copyright holders of any 3rd Party Works believe that This Software
+be in contravention of the spirit or the concrete terms of any licensing agreements
+please feel free to contact jpchansondev@gmail.com and all possible measures will
+be taken to ensure compliance.
+
+
+3. 3rd Party License Notifications
+---------------------------------
+3.1 This software contains unmodified binary redistributions for
+H2 database engine (http://www.h2database.com/),
+which is dual licensed and available under the MPL 2.0
+(Mozilla Public License) or under the EPL 1.0 (Eclipse Public License).
+An original copy of the license agreement can be found at:
+http://www.h2database.com/html/license.html
