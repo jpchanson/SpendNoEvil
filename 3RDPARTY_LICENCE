@@ -23,9 +23,15 @@ be taken to ensure compliance.
 
 3. 3rd Party License Notifications
 ---------------------------------
-3.1 This software contains unmodified binary redistributions for
+3.1 This Software contains unmodified binary redistributions for
 H2 database engine (http://www.h2database.com/),
 which is dual licensed and available under the MPL 2.0
 (Mozilla Public License) or under the EPL 1.0 (Eclipse Public License).
 An original copy of the license agreement can be found at:
 http://www.h2database.com/html/license.html
+
+3.2 This Software contains unmodified binary redistributions for
+Apache Felix OSGI framework (http://felix.apache.org/),
+which is licensed and available under the Apache License v2.0.
+An original copy of the license agreement can be fount at:
+http://felix.apache.org/license.html
